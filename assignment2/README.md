@@ -7,9 +7,9 @@ yarn
 yarn start:dev
 ```
 
-ให้เขียน Provide API ที่รับค่า postcode และ return json object 
+ให้เขียน Provide API ที่ Return สภาพอากาศ ที่รับค่า postcode และ return json object 
 
-Wather API Key 65c30b3194d7c141789fc9f4789c59e2
-API: Built-in API request by ZIP code
-country code: TH
-Document: https://openweathermap.org/current
+- Document: https://openweathermap.org/current
+- Wather API Key 65c30b3194d7c141789fc9f4789c59e2
+- API: Built-in API request by ZIP code
+- country code: TH
